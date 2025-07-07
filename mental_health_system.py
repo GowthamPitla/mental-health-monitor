@@ -1,5 +1,6 @@
 # mental_health_system.py
 pip install scikit-learn
+
 pip install matplotlib
 
 import pandas as pd
