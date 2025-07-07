@@ -2,6 +2,12 @@
 
 A simple AI/ML-powered web application that analyzes daily lifestyle metrics to predict stress levels and recommend preventive interventions.
 
+## 🚀 Live Demo
+
+Try the live version of the app here:  
+👉 [Open Mental Health & Stress Prevention App](https://mental-health-monitor.streamlit.app/)
+
+
 ## 🚀 Features
 
 - Predicts stress levels (Low, Medium, High)
