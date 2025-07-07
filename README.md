@@ -54,6 +54,12 @@ pip install -r requirements.txt
 
 streamlit run mental_health_system.py
 📸 Screenshots
+## Input Image
+![image](https://github.com/user-attachments/assets/07d897a7-b4c8-4582-96c6-d9dd43ff385e)
+
+## Output Image
+![image](https://github.com/user-attachments/assets/d85049ed-e8bb-4cdf-b734-f9a60f7f682e)
+
 <!-- (Optional) Replace with your screenshot URL -->
 
 📌 Note
